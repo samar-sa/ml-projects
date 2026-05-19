@@ -1,1 +1,11 @@
-# ML-projects
+# ML Projects
+
+A collection of machine learning projects built during my CS studies.
+
+## Projects
+- [Iris Classification (KNN)](./iris-knn/)
+- [Linear Regression](./linear-regression/)
+- [Weather Rain Prediction (Naive Bayes)](./weather-naive-bayes/)
+
+## Tools & Libraries
+Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
