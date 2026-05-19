@@ -19,8 +19,8 @@ Iris dataset — 150 samples, 4 features, 3 classes.
 - Matplotlib, Seaborn
 
 ## Results
-- Best K: (13)
-- Accuracy: (97.78 %)
+- Best K: 13
+- Accuracy: 93.33%
 
 ## How to Run
 Open in Google Colab and upload Iris.csv to session storage before running.
